@@ -1,0 +1,5 @@
+Mapping Name,Source Instance Type,Source Instance,Target Instance Type,Target Instance
+SDE_ORA_BOMHeaderDimension,Source Definition,MTL_SYSTEM_ITEMS_B,Target Definition,W_BOM_HEADER_DS
+SDE_ORA_BOMHeaderDimension,Source Definition,BOM_INVENTORY_COMPONENTS,Target Definition,W_BOM_HEADER_DS
+SDE_ORA_BOMHeaderDimension,Source Definition,BOM_BILL_OF_MATERIALS,Target Definition,W_BOM_HEADER_DS
+SIL_APTermsDimension,Source Definition,W_AP_TERMS_DS,Target Definition,W_AP_TERMS_D
