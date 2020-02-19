@@ -1,0 +1,12 @@
+Activity Start Time: 2020-01-14 16:28:43.903704
+Activity End Time: 2020-01-14 16:28:48.489916
+Mapping 'SDE_ORA_BOMHeaderDimension.xml' parse complete.
+Targets Parsed: 1
+Status: Pass - One or more Target Definitions found in current mapping xml.
+
+Activity Start Time: 2020-01-14 16:28:48.489916
+Activity End Time: 2020-01-14 16:29:53.155745
+Mapping 'SIL_APTermsDimension.xml' parse complete.
+Targets Parsed: 1
+Status: Pass - One or more Target Definitions found in current mapping xml.
+
